@@ -1,0 +1,32 @@
+.longtext {
+    position: absolute; 
+    left: 170px; 
+    width: 435px;
+}
+.number {
+    position: absolute; 
+    left: 170px; 
+    width: 80px;
+}
+.shorttext {
+    position: absolute; 
+    left: 170px; 
+    width: 200px;
+}
+.combo {
+    position: absolute; 
+    left: 170px; 
+    width: 200px;
+}
+.radio {
+    position: absolute; 
+    left: 170px;
+}
+.check {
+    position: absolute; 
+    left: 170px;
+}
+.memo {
+    width: 600px; 
+    height: 50px;
+}
